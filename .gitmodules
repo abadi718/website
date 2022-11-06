@@ -1,0 +1,10 @@
+[submodule "themes/hello-friend-ng"]
+	path = themes/hello-friend-ng
+	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng.git
+[submodule "abadi718/themes/hello-friend-ng"]
+	path = abadi718/themes/hello-friend-ng
+	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng.git
+[submodule "abadi718/public"]
+	path = abadi718/public
+	url = https://github.com/abadi718/abadi718.github.io.git
+	branch = main
